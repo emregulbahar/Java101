@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AlanHesaplayanProgram {
+public class UcgendeAlanHesaplayanProgram {
     public static void main(String[] args) {
         Scanner inp=new Scanner(System.in);
         double a,b,c;
