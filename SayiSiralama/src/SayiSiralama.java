@@ -18,7 +18,7 @@ public class SayiSiralama {
                 System.out.println(a+"<"+b+"<"+c);
 
                 }else{
-                System.out.println(a+""+c+""+b);
+                System.out.println(a+"<"+c+"<"+b);
             }
 
             }else if ((b<a)&&(b<c)){
