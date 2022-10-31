@@ -8,7 +8,7 @@ public class VucutKitleIndeksi {
 
         System.out.print("Lütfen kilonuzu kg cinsinden giriniz :");
         kilo= inp.nextDouble();
-        System.out.print("Lütfen kilonuzu metre cinsinden giriniz :");
+        System.out.print("Lütfen boyunuzu metre cinsinden giriniz :");
         boy= inp.nextDouble();
 
         indeks=kilo/(boy*boy);
