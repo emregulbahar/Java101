@@ -28,39 +28,6 @@ public class Main {
 
 
 
-/*
-        for(int i=1;i<=enter;i++){
-            for(int j=1; j<=(enter-i);j++){
-                System.out.print(" ");
-
-
-
-
-            }
-            for(int k=1; k<= (2*i) -1 ;k++){
-                System.out.print("*");
-
-            }
-            System.out.println(" ");
-
-
-            for(int m=enter;m<=(2*i)-3;m--){
-                if(m==0){
-                    break;
-                }else {
-                    System.out.print("*");
-
-
-                }
-
-            }
-
-
-        }
-
- */
-
-
         }
 
     }
