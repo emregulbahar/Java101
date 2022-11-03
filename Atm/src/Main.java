@@ -38,6 +38,7 @@ public class Main {
                             break;
                         case 3:
                             System.out.println("Bakiyeniz :"+balance);
+                            break;
 
 
                     }
